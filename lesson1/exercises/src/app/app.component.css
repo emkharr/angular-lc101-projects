@@ -1,0 +1,8 @@
+.col-3{
+    font-family: serif;
+}
+
+#fav-photos {
+    border-left: darkslategrey dotted;
+    border-right: darkslategrey dotted;
+}
